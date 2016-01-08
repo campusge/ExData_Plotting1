@@ -1,3 +1,6 @@
+#script to make the 3rd plot
+
+
 # create file plot 3 
 png("plot3.png", 
     width = 480, height = 480, units = "px" # actually not needed (default values)

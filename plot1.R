@@ -1,8 +1,8 @@
-# 
+#  script to load data and make the 1st plot
 
 # load required packages
 # create a list of packages 
-packages <- c("data.table", "reshape2","dplyr","tidyr")
+packages <- c("data.table", "dplyr")
 
 # apply to each package the function require that load the package
 sapply(packages, require, character.only=TRUE, quietly=TRUE)

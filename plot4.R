@@ -1,3 +1,6 @@
+#script to make the 4th plot
+
+
 # create file plot 4 
 png("plot4.png", 
     width = 480, height = 480, units = "px" # actually not needed (default values)

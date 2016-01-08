@@ -1,3 +1,5 @@
+#script to make the 2nd plot
+
 # create file plot 2 
 png("plot2.png", 
     width = 480, height = 480, units = "px" # actually not needed (default values)
